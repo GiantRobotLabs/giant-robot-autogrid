@@ -3,7 +3,7 @@ giant-robot-autogrid
 
 #Description
 
-Sample iOS autolayout grid project. The grid can be used to set up interfaces that will size and expand to all screen sizes using autolayout.
+This is a sample iOS grid-based autolayout project. The grid can be used to set up interfaces that will size and expand to all screen sizes using autolayout. This AutoGrid is set up for a 4x3 grid with 10px padding between the UIViews.
 
 ---
 
